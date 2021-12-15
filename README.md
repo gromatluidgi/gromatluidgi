@@ -2,11 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/0fe513c0-f0bb-46ec-ae03-349cfdf9019a.svg)](https://wakatime.com/@0fe513c0-f0bb-46ec-ae03-349cfdf9019a)
 
-When you still feel the same emotion and anthousiasm after more than 10 years of software development, it's just passion !
+When you still feel the same emotion and enthusiasm after more than 10 years of software development, it's just passion !
 
-*   I'm currently working various problematic related to **Scallable and Abstract Domain Driven Software Systems**.
+*   I'm currently working on various problematic related to **Scallable and Abstract Domain Driven Software Systems**.
 
-*   My professional GitHub account: 
+*   Last mission Github account: 
 <a href="https://github.com/luidgigromat" ><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=&style=flat" /> </a>
 
 *   For any problems, I always ask **"where are the docs ?!"**.
