@@ -9,7 +9,15 @@ When you still feel the same emotion and enthusiasm after more than 10 years of 
 *   Last mission Github account: 
 <a href="https://github.com/luidgigromat" ><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=&style=flat" /> </a>
 
-*   For any problems, I always ask **"where are the docs ?!"**.
+##
+
+<div align="center">
+  <a href="https://github.com/giovanivrech">
+    <img height="180em" src="https://github-readme-stats-navy-three.vercel.app/api?username=gromatluidgi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>  
+</div>
+
+##
 
 ### Most used langague and tech in career:
 
