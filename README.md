@@ -12,7 +12,7 @@ When you still feel the same emotion and enthusiasm after more than 10 years of 
 ##
 
 <div align="center">
-  <a href="https://github.com/giovanivrech">
+  <a href="https://github.com/gromatluidgi">
     <img height="180em" src="https://github-readme-stats-navy-three.vercel.app/api?username=gromatluidgi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>  
 </div>
