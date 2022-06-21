@@ -2,6 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/0fe513c0-f0bb-46ec-ae03-349cfdf9019a.svg)](https://wakatime.com/@0fe513c0-f0bb-46ec-ae03-349cfdf9019a)
 
+**Current Hobby Project:** 
+[Pluralscan - One hub for multifarious static code analysis diagnostics](https://github.com/Pluralscan/Pluralscan)
+
 When you still feel the same emotion and enthusiasm after more than 10 years of software development, it's just passion !
 
 *   I'm currently working on various problematic related to **Scallable and Abstract Domain Driven Software Systems**.
